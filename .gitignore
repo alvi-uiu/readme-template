@@ -1,0 +1,6 @@
+temp
+binSearch
+*.cpp
+!temp.cpp
+!f.txt
+folder/
